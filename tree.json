@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Нужен смартфон?",
+    "descr": "Description 2",
+    "yes_id": 2,
+    "no_id": 13,
+    "phone_yes": null,
+    "phone_no": null
+  },
+  {
+    "id":2,
+    "name": "Нужна физическая клавиатура?",
+    "descr": "Description 2",
+    "yes_id": 3,
+    "no_id": 4,
+    "phone_yes": null,
+    "phone_no": null
+  },
+  {
+    "id": 3,
+    "name": "Андроид?",
+    "descr": "Description 3",
+    "yes_id": null,
+    "no_id": null,
+    "phone_yes": 0,
+    "phone_no": 1
+  },
+  {
+    "id": 4,
+    "name": "Большой экран",
+    "descr": "Description",
+    "yes_id": 5,
+    "no_id": 11,
+    "phone_yes": null,
+    "phone_no": null
+  },
+  {
+    "id": 5,
+    "name": "Премиум сегмент?",
+    "descr": "Description",
+    "yes_id": 6,
+    "no_id": 7,
+    "phone_yes": null,
+    "phone_no": null
+  },
+  {
+    "id": 6,
+    "name": "Андроид?",
+    "descr": "Description",
+    "yes_id": null,
+    "no_id": null,
+    "phone_yes": 2,
+    "phone_no": 3
+  },
+  {
+    "id": 7,
+    "name": "Бюджетный?",
+    "descr": "Description",
+    "yes_id": 8,
+    "no_id": 9,
+    "phone_yes": null,
+    "phone_no": null
+  },
+  {
+    "id": 8,
+    "name": "Процессор Qualcomm?",
+    "descr": "Description",
+    "yes_id": null,
+    "no_id": null,
+    "phone_yes": 4,
+    "phone_no": 5
+  },
+  {
+    "id": 9,
+    "name": "Важна камера?",
+    "descr": "Description",
+    "yes_id": 10,
+    "no_id": null,
+    "phone_yes": null,
+    "phone_no": 6
+  },
+  {
+    "id": 10,
+    "name": "NFC?",
+    "descr": "Description",
+    "yes_id": null,
+    "no_id": null,
+    "phone_yes": 7,
+    "phone_no": 8
+  },
+  {
+    "id": 11,
+    "name": "Хорошая камера?",
+    "descr": "Description",
+    "yes_id": null,
+    "no_id": 12,
+    "phone_yes": 10,
+    "phone_no": null
+  },
+  {
+    "id": 12,
+    "name": "Важен класс защиты?",
+    "descr": "Description",
+    "yes_id": null,
+    "no_id": null,
+    "phone_yes": 10,
+    "phone_no": 11
+  },
+  {
+    "id": 13,
+    "name": "Важна ли ударопрочность?",
+    "descr": "Description",
+    "yes_id": 14,
+    "no_id": 15,
+    "phone_yes": null,
+    "phone_no": null
+  },
+  {
+    "id": 14,
+    "name": "Водонепроницаемость?",
+    "descr": "Description",
+    "yes_id": null,
+    "no_id": null,
+    "phone_yes": 12,
+    "phone_no": 13
+  },
+  {
+    "id": 15,
+    "name": "Критично время автономной работы?",
+    "descr": "Description",
+    "yes_id": null,
+    "no_id": null,
+    "phone_yes": 14,
+    "phone_no": 15
+  }
+]
